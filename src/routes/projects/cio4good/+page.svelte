@@ -19,22 +19,30 @@
 
 		<TabPanel>
 			<div>
-				<iframe height = 1000px width = 1000px src = 'https://tableau.dsc.umich.edu/t/UM-Academic/views/CIO4GOODVisualizationsV2/CountofOrganizationsResponded?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Ftableau.dsc.umich.edu%2F&:embed_code_version=3&:tabs=yes&:toolbar=yes&:showAppBanner=false&:display_spinner=no&:loadOrderID=0'>
-				</iframe>
-			</div>
-		</TabPanel>
-
-		<TabPanel>
-			<div>
-				<iframe height = 819px width = 1030px src= 'https://tableau.dsc.umich.edu/t/UM-Academic/views/V5Benchmarking/CIO4GOODSurveyBenchmarking?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Ftableau.dsc.umich.edu%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:device=desktop&:showAppBanner=false&:display_spinner=no&:loadOrderID=1'>
-				</iframe>
+				<iframe
+					title="Visualizations"
+					height="1000px"
+					width="1000px"
+					src="https://tableau.dsc.umich.edu/t/UM-Academic/views/CIO4GOODVisualizationsV2/CountofOrganizationsResponded?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Ftableau.dsc.umich.edu%2F&:embed_code_version=3&:tabs=yes&:toolbar=yes&:showAppBanner=false&:display_spinner=no&:loadOrderID=0"
+				/>
 			</div>
 		</TabPanel>
 
 		<TabPanel>
 			<div>
 				<iframe
-					title
+					title="Benchmarking"
+					height="819px"
+					width="1030px"
+					src="https://tableau.dsc.umich.edu/t/UM-Academic/views/V5Benchmarking/CIO4GOODSurveyBenchmarking?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Ftableau.dsc.umich.edu%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:device=desktop&:showAppBanner=false&:display_spinner=no&:loadOrderID=1"
+				/>
+			</div>
+		</TabPanel>
+
+		<TabPanel>
+			<div>
+				<iframe
+					title="Survey Data"
 					width="100%"
 					height="727px"
 					src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQyDHBTILuOdRgKr2YA7lOjGKjQINCpfTp-ptqOEUs7cwy-QTvpUS_9_ePXOI3tD6FdvNZbtpQIWvuk/pubhtml?gid=1528335567&amp;single=true&amp;widget=true&amp;headers=false"

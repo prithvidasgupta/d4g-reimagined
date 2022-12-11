@@ -1,9 +1,12 @@
+<script>
+	import { base } from '$app/paths';
+</script>
 <nav>
 	<ul id="menu">
-		<li><a href="/projects/research">Research</a></li>
-		<li><a href="/projects/chetah">Chetah</a></li>
-		<li><a href="/projects/simex">SimEx</a></li>
-		<li><a href="/projects/hangul">Hangul</a></li>
+		<li><a href="{base}/projects/research">Research</a></li>
+		<li><a href="{base}/projects/chetah">Chetah</a></li>
+		<li><a href="{base}/projects/simex">SimEx</a></li>
+		<li><a href="{base}/projects/hangul">Hangul</a></li>
 	</ul>
 </nav>
 

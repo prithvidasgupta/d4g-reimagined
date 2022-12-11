@@ -20,5 +20,5 @@
     evacuate the team across an international border.
 </p>
 <h2>Simex Prototype</h2>
-        <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FTUJKvltspIqPOPMv42XLO0%2FUntitled%3Fnode-id%3D2%253A7%26starting-point-node-id%3D2%253A7%26scaling%3Dscale-down" allowfullscreen></iframe>
+        <iframe title='SimEX' style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FTUJKvltspIqPOPMv42XLO0%2FUntitled%3Fnode-id%3D2%253A7%26starting-point-node-id%3D2%253A7%26scaling%3Dscale-down" allowfullscreen></iframe>
 </div>

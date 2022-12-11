@@ -1,3 +1,6 @@
+<script>
+	import {base} from '$app/paths'
+</script>
 <div class="faq-container">
 	<h1>Frequently Asked Questions</h1>
 	<h2>What is Data4Good?</h2>
@@ -7,7 +10,7 @@
 	</p>
 	<h2>What projects are we working on at Data4Good?</h2>
 	<p>
-		Find our most recent work on the <a href="/projects">Projects</a> page, and click on each project
+		Find our most recent work on the <a href="{base}/projects/research">Projects</a> page, and click on each project
 		listed for more details.
 	</p>
 	<h2>How can I provide feedback on Data4Good's website or projects?</h2>

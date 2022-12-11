@@ -1,5 +1,6 @@
 <script>
     import logo from '$lib/assets/logo.png'
+    import { base } from '$app/paths';
 </script>
 <style>
     * {
@@ -100,7 +101,7 @@
 <div class="nav">
     <div class="nav-header">
       <div class="nav-title">
-        <a href ='/'><img class='logo' alt = 'Data4Good logo'src={logo}/></a>
+        <a href ='{base}/'><img class='logo' alt = 'Data4Good logo'src={logo}/></a>
       </div>
     </div>
     <div class="nav-btn">
@@ -112,8 +113,8 @@
     </div>
     
     <nav class="nav-links">
-        <a href="/projects/research">Projects</a>
-        <a href="/about">About</a>
-        <a href="/faq">FAQ</a>
+        <a href="{base}/projects/research">Projects</a>
+        <a href="{base}/about">About</a>
+        <a href="{base}/faq">FAQ</a>
     </nav>
   </div>
