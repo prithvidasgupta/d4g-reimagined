@@ -1,7 +1,7 @@
 import adapter from "@sveltejs/adapter-static"; 
 // was "@sveltejs/adapter-auto"
 
-const dev = true;
+const dev = false;
 
 /** @type {import(""@sveltejs/kit").Config} */
 const config = {
