@@ -14,7 +14,7 @@
 		listed for more details.
 	</p>
 	<h2>How can I provide feedback on Data4Good's website or projects?</h2>
-	<p>Fill out our Google Feedback form with any suggestions. We'd be happy to hear from you!</p>
+	<p>Fill out our <a href="https://forms.gle/YHT9biBSnzCHePUB8">Google Feedback form</a> with any suggestions. We'd be happy to hear from you!</p>
 	<h2>How else can I get in touch with Data4Good?</h2>
 	Reach us at:
 	<p>

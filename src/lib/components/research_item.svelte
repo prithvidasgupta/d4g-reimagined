@@ -7,19 +7,27 @@
 </script>
 
 <div class="research-container">
-	<h2 class="name">{topic}</h2>
 	<img class="thumbnail" src={image} alt="Image describing {topic}" />
+	<div class="research-desc">
+	<h2 class="name">{topic}</h2>
+	
 	<p class="description">{@html description}</p>
 	<a class="link" href={link}><button>{buttonText}</button></a>
+</div>
 </div>
 
 <style>
 	.research-container {
 		font-family: Roboto;
-		padding-right: 50px;
+		padding-right: 20px;
+		display: flex;
+		flex-direction: row;
+		margin: 20px;
+
 	}
 	.thumbnail {
 		width: 250px;
+		padding: 20px;
 	}
 	button {
 		border: none;
@@ -30,6 +38,7 @@
 		text-decoration: none;
 		display: inline-block;
 		font-size: 15px;
+		border-radius: 5px;
 	}
     button:hover{
         background-color: #54246c;

@@ -10,6 +10,7 @@
 	<p>to help create stronger nonprofit organizations.</p>
 </h2>
 <a href="{base}/projects/research"><img alt="Data4Good logo" class="logo" src={logo} /></a>
+<h3 class="home-desc">Click on the icon to see our projects</h3>
 
 <style>
 	.home-title {
@@ -22,7 +23,6 @@
 		color: black;
 		text-align: center;
 		font-family: Roboto;
-		font-size: 1.5rem;
 	}
 	a:link {
 		text-decoration: none;
@@ -37,5 +37,8 @@
 	}
 	p {
 		color: #3f3842;
+	}
+	.home-projects{
+
 	}
 </style>
